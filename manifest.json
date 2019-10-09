@@ -1,11 +1,10 @@
 {
     "manifest_version": 2,
-    "name": "GmailJS Node Boilerplate Extension",
-    "short_name": "gmailjsnode",
+    "name": "Add to Calendar from Gmail",
+    "short_name": "calendarfromgmail",
     "version": "1.0",
-    "author": "Jostein Kjønigsen <jostein@kjonigsen.net>",
-
-    "description": "A minimal extension which demonstrates how to create a extension with Gmail.JS and NodeJS-based bundling.",
+    "author": "Glen Chiacchieri",
+    "description": "Click on dates and times in gmail messages to add to your calendar.",
 
     "content_scripts": [
         {
